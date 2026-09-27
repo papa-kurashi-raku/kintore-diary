@@ -1,0 +1,8 @@
+title: "継続筋トレ日記"
+description: "健康のために続けている筋トレの記録や、おすすめの筋トレグッズを紹介するブログです。"
+theme: minima
+baseurl: "/kintore-diary"
+show_excerpts: true
+lang: ja
+minima:
+  skin: classic
